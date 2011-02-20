@@ -1,0 +1,10 @@
+Required features
+1st version
+pinout and footprint compatible to existing RAMPS, where applicable (stepper-drivers), Mega-connection
+fuses for Mosfet driven terminals
+additional powerpaths for mosfet 2 and 3
+replacement driver modules for Pololus, pin compatible
+later versions
+SD-card support
+ethernet-support?
+
