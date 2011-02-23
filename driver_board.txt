@@ -15,6 +15,11 @@ Symbol		Manufacturer		Prices (with breaks)		Supplier
 DRV8824PWP	Texas Instruments	1+@5.87, 10+@4.41, 100+@3.57	Farnell (at)
 	+ 1/32 microstepping
 	- 1.6A limit
-
-
-
+DRV8825         Texas Instruments       ???                             ???
+        +1/32 microstepping
+        +3A limit
+        - vendor needed
+A4983           Allegro                 ???                            matronic.de
+        + original part used by pololu  quote requested 23.02.2011by rkoeppl
+        - gets very hot
+        -short in supply
