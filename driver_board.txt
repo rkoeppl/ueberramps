@@ -1,0 +1,17 @@
+
+Requirements:
+- same pinout as currently used ones
+- heatsink'able
+- more available than currently used ones
+
+
+Candidate devices
+
+Symbol		Manufacturer		Prices (with breaks)		Supplier
+-----------------------------------------------------------------------------------
+DRV8824PWP	Texas Instruments	1+@5.87, 10+@4.41, 100+@3.57	Farnell (at)
+	+ 1/32 microstepping
+	- 1.6A limit
+
+
+
