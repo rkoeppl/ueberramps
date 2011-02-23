@@ -3,7 +3,8 @@ Requirements:
 - same pinout as currently used ones
 - heatsink'able
 - more available than currently used ones
-
+- better potentiometer needed
+- same voltage range as current ones for the controller pins
 
 Candidate devices
 
