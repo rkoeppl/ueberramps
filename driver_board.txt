@@ -6,6 +6,11 @@ Requirements:
 - better potentiometer needed (just insulated)
 - same voltage range as current ones for the controller pins (3-5,5V)
 - FUSE
+- additional led signaling that we still have power (after fuse)
+
+TODO:
+- need to check what happens if we loose main voltage because of fuse breaking
+  and still have powered other side (logic one)
 
 
 Candidate devices
@@ -14,16 +19,23 @@ Symbol		Manufacturer		Prices in EUR (with breaks)	Supplier
 -----------------------------------------------------------------------------------
 DRV8824PWP	Texas Instruments	1+@5.87, 10+@4.41, 100+@3.57	Farnell (at)
 	+ 1/32 microstepping
-	- 1.6A limit
+	- 1.6A limit (24V, 25C), 8-45V, Tj = 150, Rtj = 65-28
+	- package HTSSOP28, almost as difficult as QFN to solder.
+	= logic levels: 3.3V/5V
+
 DRV8825         Texas Instruments       ???                             ???
-        +1/32 microstepping
-        +3A limit
+        + 1/32 microstepping
+        + 3A limit
         - vendor needed
+
 A4983           Allegro                 10+@15                            matronic.de
+	= 1/16 microstepping
+	= 2A, 35V, Rjt = 32C/W, Tj = 150C
         + original part used by pololu  
         - gets very hot
-        -short in supply
-        -high price for low numbers
+        - short in supply
+        - high price for low numbers
+	- package QFN difficult to solder package (need hotplate or tricks)
 
 board size:15,24x20,32mm 0,6x0,8 inch
 double sided board
