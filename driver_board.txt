@@ -4,13 +4,13 @@ Requirements:
 - heatsink'able
 - more available than currently used ones
 - better potentiometer needed (just insulated)
-- same voltage range as current ones for the controller pins
+- same voltage range as current ones for the controller pins (3-5,5V)
 - FUSE
 
 
 Candidate devices
 
-Symbol		Manufacturer		Prices (with breaks)		Supplier
+Symbol		Manufacturer		Prices in EUR (with breaks)	Supplier
 -----------------------------------------------------------------------------------
 DRV8824PWP	Texas Instruments	1+@5.87, 10+@4.41, 100+@3.57	Farnell (at)
 	+ 1/32 microstepping
@@ -19,7 +19,15 @@ DRV8825         Texas Instruments       ???                             ???
         +1/32 microstepping
         +3A limit
         - vendor needed
-A4983           Allegro                 ???                            matronic.de
-        + original part used by pololu  quote requested 23.02.2011by rkoeppl
+A4983           Allegro                 10+@15                            matronic.de
+        + original part used by pololu  
         - gets very hot
         -short in supply
+        -high price for low numbers
+
+board size:15,24x20,32mm 0,6x0,8 inch
+double sided board
+number of pins:16 (2x8)
+board pinout: as seen on http://www.pololu.com/catalog/product/1201
+left: Enable, MS1,MS2,MS3,Reset,Sleep,Step,Dir
+right: Vmot,Gnd,2B,2A,1A,1B,VDD,GND
