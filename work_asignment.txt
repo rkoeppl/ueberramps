@@ -1,0 +1,6 @@
+verwiew of tasks:
+agaran:
+circuit board for "dirt cheap" version using BD6385EVF-E2 
+dl6mee:
+reasonable-priced and High end prototype, based on TI DRV8811 and 8824/8825
+
