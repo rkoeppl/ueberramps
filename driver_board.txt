@@ -17,6 +17,16 @@ Candidate devices
 
 Symbol		Manufacturer		Prices in EUR (with breaks)	Supplier
 -----------------------------------------------------------------------------------
+BD6385EVF-E2    ROHM                    1+ 2,90                         Farnell (at)
+        + cheap
+        - only 1,2A
+BD6389FM-E2     ROHM                    1+@9,33, 10+@7,53, 100+@5,94    Farnell (at)
+        + 1,9A
+        - expensive
+DRV8811         Texas Instruments       1+@5,48, 10+@4,38, 100@3,98     Farnell (at)
+        + 2,5A
+        + proven to work with NEMA17 and NEMA23
+        - 1/8 microstepping 
 DRV8824PWP	Texas Instruments	1+@5.87, 10+@4.41, 100+@3.57	Farnell (at)
 	+ 1/32 microstepping
 	- 1.6A limit (24V, 25C), 8-45V, Tj = 150, Rtj = 65-28
