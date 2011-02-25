@@ -1,4 +1,6 @@
 Power supplied via 4Pin Molex (2x12V ATX)
-Alternative Power connector for 12V or higher (like current RAMPS
+Alternative Power connector for 12V or higher (like current RAMPS)
 connector for cooling FAN
-FUSES)
+FUSES
+Size: same as Arduino Mega
+
