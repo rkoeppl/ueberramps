@@ -3,4 +3,7 @@ Alternative Power connector for 12V or higher (like current RAMPS)
 connector for cooling FAN
 FUSES
 Size: same as Arduino Mega
+Interesting layout:
+http://2.bp.blogspot.com/_1UVszrpSvPI/THwRlquxzpI/AAAAAAAAAFQ/99IBmJfBzmk/s1600/latest+board.png
+:
 
