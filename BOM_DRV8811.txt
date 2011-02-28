@@ -1,0 +1,8 @@
+needed parts:
+part_no number	description	value
+1	2	capacitor 	220pF
+2	3	capacitor	220nF
+3	2       resistor        220kOhm
+4       2       resistor        0r22
+5       1       resistor        3k9
+6       1       trimpoti	???
