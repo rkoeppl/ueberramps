@@ -6,3 +6,4 @@ part_no number	description	value
 4       2       resistor        0r22
 5       1       resistor        3k9
 6       1       trimpoti	???
+7       1       DRV8811
