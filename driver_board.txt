@@ -20,6 +20,8 @@ Symbol		Manufacturer		Prices in EUR (with breaks)	Supplier
 BD6385EVF-E2    ROHM                    1+ 2,90                         Farnell (at)
         + cheap
         - only 1,2A
+	- only 1/4 microstepping
+
 BD6389FM-E2     ROHM                    1+@9,33, 10+@7,53, 100+@5,94    Farnell (at)
         + 1,9A
         - expensive
