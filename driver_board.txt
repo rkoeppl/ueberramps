@@ -37,7 +37,7 @@ DRV8824PWP	Texas Instruments	1+@5.87, 10+@4.41, 100+@3.57	Farnell (at)
 
 DRV8825         Texas Instruments       ???                             ???
         + 1/32 microstepping
-        + 3A limit
+        + 2,5A limit
         - vendor needed
 
 A4983           Allegro                 10+@15                            matronic.de
