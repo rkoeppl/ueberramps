@@ -40,8 +40,8 @@ DRV8825         Texas Instruments       ???                             ???
         + 2,5A limit
         - vendor needed
 
-A4983           Allegro                 10+@15                            matronic.de
-	= 1/16 microstepping
+A4983           Allegro                 1+@4,83 25+@3,87 100+@3,01	farnell (at)
+	= 1/16 microstepping		1+@3,98 25+@3,07 100+@2,72 1500+@1,54 digikey (at)
 	= 2A, 35V, Rjt = 32C/W, Tj = 150C
         + original part used by pololu  
         - gets very hot
