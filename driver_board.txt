@@ -26,11 +26,11 @@ BD6389FM-E2     ROHM                    1+@9,33, 10+@7,53, 100+@5,94    Farnell 
         + 1,9A
         - expensive
 DRV8811         Texas Instruments       1+@5,48, 10+@4,38, 100@3,98     Farnell (at)
-        + 2,5A
+        + 2,5A				1+@4,32.2000+@1,91		Digikey (at)
         + proven to work with NEMA17 and NEMA23
         - 1/8 microstepping 
 DRV8824PWP	Texas Instruments	1+@5.87, 10+@4.41, 100+@3.57	Farnell (at)
-	+ 1/32 microstepping
+	+ 1/32 microstepping		1+@4,37				Digikey (at)
 	- 1.6A limit (24V, 25C), 8-45V, Tj = 150, Rtj = 65-28
 	- package HTSSOP28, almost as difficult as QFN to solder.
 	= logic levels: 3.3V/5V
@@ -49,7 +49,7 @@ A4983           Allegro                 10+@15                            matron
         - high price for low numbers
 	- package QFN difficult to solder package (need hotplate or tricks)
 
-board size:15,24x20,32mm 0,6x0,8 inch
+board size:15,24x20,32mm 0,6x0,8 inch	10+@9,36 100+@1,59 1000+@0,36	PCB-pool (at)
 double sided board
 number of pins:16 (2x8)
 board pinout: as seen on http://www.pololu.com/catalog/product/1201
