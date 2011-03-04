@@ -1,6 +1,6 @@
 verwiew of tasks:
 agaran:
-circuit board for "dirt cheap" version using BD6385EVF-E2 
+circuit board for "dirt cheap" version using BD6385EVF-E2 (postponed), reasonable-priced version based on TI DRV8811
 dl6mee:
-reasonable-priced and High end prototype, based on TI DRV8811 and 8824/8825
+High end prototype, based on TI DRV8824/8825
 
