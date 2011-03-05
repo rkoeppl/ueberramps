@@ -1,7 +1,7 @@
 driver board:
 dirt-cheap version: postponed
 DRV8811-version: agaran is etching first board prototype, has purchased1 drv8811
-DRV8824 Version dl6mee recieved 10 samples from TI, is working on design, waiting for rkoeppl to deliver stepper and broken pololu board
-DRV8825-version IC currently unavailabe for samples, will be tested later on DRV8824 board
+DRV8824 Version dl6mee recieved 5 samples from TI, is working on design, waiting for rkoeppl to deliver stepper and broken pololu board
+DRV8825-version IC currently unavailabe for samples (preview state), will be tested later on DRV8824 board
 RAMPS-board:
 no progress so far
